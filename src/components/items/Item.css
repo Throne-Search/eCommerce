@@ -1,0 +1,17 @@
+.Item_list {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .Item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .Item p {
+    margin: 5px 0;
+  }
+  
+  
